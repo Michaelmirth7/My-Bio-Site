@@ -1,0 +1,52 @@
+body{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    background-image:url(images/pexels-ethan-brooke-2246790.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    text-shadow: 2px 2px black;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    overflow: auto;
+   
+}
+
+
+img{
+    height: 200px;
+    width: 300px;
+    border: black 2px solid;
+    border-radius: 10px;
+
+
+}
+
+.containera{
+    text-align: center;  
+}
+
+
+.containerb{
+    text-align: center;
+}
+
+input{
+    font-size: 24px;
+}
+
+button{
+    font-size: 24px;
+    background-color: rgb(62, 102, 177);
+    border:1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+span{
+    color:cornflowerblue;
+}
